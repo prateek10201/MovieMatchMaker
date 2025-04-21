@@ -38,12 +38,7 @@ git clone https://github.com/yourusername/movie-recommendation-system.git
 cd movie-recommendation-system
 ```
 
-2. Install required packages:
-```
-pip install -r requirements.txt
-```
-
-3. Download the dataset and models:
+2. Download the dataset and models:
    * Ensure `movies2024.csv` is placed in the project root directory
    * Add models to the `/models` directory (or adjust paths in the code)
 
